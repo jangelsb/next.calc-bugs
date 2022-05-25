@@ -2,7 +2,7 @@
   <img src="https://jangelsb.github.io/next.calc/images/next-n.png" width=200 />
 </p>
 
-# next.calc bug tracker 🐞
+# next.calc issue tracker 🚛
 
 Hey! Here's a helpful little bug tracker for known issues with [next.calc]([https://apolloapp.io](https://jangelsb.github.io/next.calc/)), so if you have a bug to report you can check the “Issues” tab up above to see if it's already been reported. I'm just one guy working on next.calc so I can't promise I'll be able to fix the bug in a report instantly, but I do really want to know about the bugs so I can fix them as soon as I can! 
 
@@ -10,7 +10,7 @@ Hey! Here's a helpful little bug tracker for known issues with [next.calc]([http
 
 To create a report, you'll need a [GitHub account](https://github.com/), which is super fast (and free) to do.
 
-Then, go to the “Issues” tab at the top, then select “New Issue” and simply fill in the form. *Please* make sure you include as much of the requested information as possible, it helps me out a ton! Please be polite in the discussions as well.
+Then, go to the “Issues” tab at the top, then select “New Issue”, add "bug" label, and then simply fill in the form. *Please* make sure you include as much of the requested information as possible, it helps me out a ton! Please be polite in the discussions as well.
 
 ### How do I find out if my bug has already been reported?
 
@@ -26,7 +26,7 @@ GitHub's an awesome site that's really well-suited for bug tracking. It'll keep 
 
 ### What if I have a feature request, not a bug report?
 
-We have a separate place for feature requests (for organization), check out [TODO: make another github repo]
+Go to the “Issues” tab at the top, then select “New Issue”, add an "enhancement" label and then simply fill in the form. *Please* make sure you include as much of the requested information as possible, it helps me out a ton! Please be polite in the discussions as well.
 
 ### Can I participate in discussions here?
 
