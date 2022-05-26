@@ -10,15 +10,13 @@ Hey! Here's a helpful little issue tracker for known issues with **[next.calc]([
 
 To create a report, you'll need a [GitHub account](https://github.com/), which is super fast (and free) to do.
 
-Click here: [Create a new Issue](https://github.com/jangelsb/next.calc-issues/issues/new/choose) or
-
-Go to the “Issues” tab at the top, then select “New Issue”, then select "Get started" next to "Bug report" or "Feature request".
+Then just click here: **[Create a new Issue](https://github.com/jangelsb/next.calc-issues/issues/new/choose)**
 
 Then simply fill in the form. *Please* make sure you include as much of the requested information as possible, it helps me out a ton! Please be polite in the discussions as well.
 
 ### How do I find out if my bug  or feature has already been reported?
 
-Go to the “Issues” tab at the top, and there's a search bar at the top so you can search to see if it's already been submitted. If not, report away! If it has been reported though feel free to add more information to the discussion, or you can tap the + button with the 👍 emoji to vote on it to indicate it affects you too. 
+Go to the “[Issues](https://github.com/jangelsb/next.calc-issues/issues)” tab at the top, and there's a search bar at the top so you can search to see if it's already been submitted. If not, report away! If it has been reported though feel free to add more information to the discussion, or you can tap the + button with the 👍 emoji to vote on it to indicate it affects you too. 
 
 ### What can I do to help if the bug I'm having an issue with has already been reported?
 
