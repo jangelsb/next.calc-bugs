@@ -12,7 +12,7 @@ To create a report, you'll need a [GitHub account](https://github.com/), which i
 
 Then just click here: **[Create a new Issue](https://github.com/jangelsb/next.calc-issues/issues/new/choose)**
 
-Then simply fill in the form. *Please* make sure you include as much of the requested information as possible, it helps me out a ton! Please be polite in the discussions as well.
+And simply fill in the form. *Please* make sure you include as much of the requested information as possible, it helps me out a ton! Please be polite in the discussions as well.
 
 ### How do I find out if my bug  or feature has already been reported?
 
