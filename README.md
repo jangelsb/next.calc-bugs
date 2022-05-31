@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://jangelsb.github.io/next.calc/images/next-n.png" width=200 />
+  <img src="https://jangelsb.github.io/next.calc/images/source/next-n.png" width=200 />
 </p>
 
 # next.calc issue tracker 🚛
 
-Hey! Here's a helpful little issue tracker for known issues with **[next.calc]([https://apolloapp.io](https://jangelsb.github.io/next.calc/))**, so if you have a bug or a feature to report you can check the “Issues” tab up above to see if it's already been reported. I'm just one guy working on next.calc so I can't promise I'll work on it instantly, but I do really want to know about the bugs and feature requests so I can work on them as soon as I can! 
+Hey! Here's a helpful little issue tracker for known issues with **[next.calc](https://jangelsb.github.io/next.calc/)**, so if you have a bug or a feature to report you can check the “Issues” tab up above to see if it's already been reported. I'm just one guy working on next.calc so I can't promise I'll work on it instantly, but I do really want to know about the bugs and feature requests so I can work on them as soon as I can! 
 
 ### How do I report a bug or feature request?
 
@@ -31,4 +31,4 @@ GitHub's an awesome site that's really well-suited for bug tracking. It'll keep 
 Of course! But please try to stay on topic to the specific bug report, so contribute if you feel you can add extra information. If you just want to say "me too", use the + button with the smiley on a comment to indicate your reaction rather than creating another comment. This is unfortunately also not the place for off-topic conversation or memes. Also please try to be nice here within the discussions. :)
 
 ### Special Thanks
-Thanks to Christan for making a great bug tracker template for indie apps. Here is a link to what this is based off of: https://github.com/christianselig/apollo-bugs
+Thanks to Christan Selig for making a great bug tracker template for indie apps. Here is a link to what this is based off of: https://github.com/christianselig/apollo-bugs
